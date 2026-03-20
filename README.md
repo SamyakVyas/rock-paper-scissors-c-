@@ -11,7 +11,3 @@ A simple Rock Paper Scissors game built in C++.
 - Loops and conditionals
 - Random number generation
 - User input handling
-
-## How to Run
-1. Compile: g++ main.cpp -o rps
-2. Run: ./rps
